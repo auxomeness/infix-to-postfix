@@ -1,9 +1,6 @@
-Laboratory Exercise #03
 Stack ADT — Infix to Postfix Conversion and Expression Evaluation
 Language: C++
 Author: Karl Austin Pavia
-File: pavia_stack.cpp
-
 
 -------------------------------
 INSTRUCTIONS TO COMPILE AND RUN
